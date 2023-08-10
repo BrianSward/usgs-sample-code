@@ -3,7 +3,7 @@
 This toolkit provides a set of functions and classes for processing keyword-value pairs from formatted strings, supporting unit conversions, filtering, and more.
 
 Created by Brian Sward
-Created on 8/10/23
+Created on 2023-08-10
 
 ## Functions and Classes
 
@@ -22,9 +22,9 @@ A class that extends the concept of `UnitConverter`'s functionality to find the 
 ### StringFilter Class
 A class that supports filtering values based on criteria and keywords.
 
-## TESTING / Usage Examples
+## Testing / Usage Examples
 
-To test the above functions, open a Shell here on Replit and then type
+To test the above functions, clone down the repo, open a terminal and in the directory which contains both tests.js and index.js type:
 
     node tests.js
 
